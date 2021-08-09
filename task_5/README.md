@@ -2,7 +2,7 @@
 
 1. A screenshot of the console output immediately after deploying smart contract.
 
-![alt text](https://github.com/linhphamsg/nervosnetwork/blob/main/task_5/deploying_smart_contract.png?raw=true)
+![alt text](https://github.com/linhphamsg/nervosnetwork/blob/main/task_5/deploying.png?raw=true)
 
 
 2. The address of the ERC20 Proxy Contract you deployed (in text format).
@@ -11,7 +11,7 @@
 
 3. A screenshot of the console output immediately after checking your SUDT balance.
 
-![alt text](https://github.com/linhphamsg/nervosnetwork/blob/main/task_5/check_sudt_balance.png?raw=true)
+![alt text](https://github.com/linhphamsg/nervosnetwork/blob/main/task_5/check_sudt.png?raw=true)
 
 
 4. The Ethereum address that was checked (in text format).
